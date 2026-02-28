@@ -67,9 +67,7 @@ The Excel dashboard includes:
 
 ---
 
-## 🔗 Project Links
-
-* GitHub Repository: [https://github.com/MazenMohamed101/Spotify/](https://github.com/MazenMohamed101/Spotify/)
+Special thanks to @The Developer for the helpful Power BI design content and i nominate him honestly 
 * The Developer Channel: [https://www.youtube.com/@The-Developer-BI](https://www.youtube.com/@The-Developer-BI)
 * The Developer Profile: [https://www.linkedin.com/in/the-developer-yt/](https://www.linkedin.com/in/the-developer-yt/)
 
