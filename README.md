@@ -51,27 +51,11 @@ The Excel dashboard includes:
 
 ### 📷 Dashboard Screenshot
 
-Add your dashboard image inside the repository (recommended path: `assets/dashboard.png`) and use the following markdown:
+![Spotify](dashboard/home.png)
+![Spotify](dashboard/overview.png)
+![Spotify](dashboard/artists.png)
+![Spotify](dashboard/songs.png)
 
-```markdown
-![Spotify Excel Dashboard](assets/dashboard.png)
-```
-
-If your image is in the main folder, use:
-
-```markdown
-![Spotify Excel Dashboard](dashboard.png)
-```
-
-Recommended image size:
-
-* Width: 1200–1600px
-* High resolution (Full HD preferred)
-* Clean crop with no extra borders
-
-After uploading the image to GitHub, it will automatically appear in your README.
-
----
 
 ## 🛠 Tools Used
 
@@ -86,8 +70,8 @@ After uploading the image to GitHub, it will automatically appear in your README
 ## 🔗 Project Links
 
 * GitHub Repository: [https://github.com/MazenMohamed101/Spotify/](https://github.com/MazenMohamed101/Spotify/)
-* YouTube Channel: [https://www.youtube.com/@The-Developer-BI](https://www.youtube.com/@The-Developer-BI)
-* LinkedIn Profile: [https://www.linkedin.com/in/the-developer-yt/](https://www.linkedin.com/in/the-developer-yt/)
+* The Developer Channel: [https://www.youtube.com/@The-Developer-BI](https://www.youtube.com/@The-Developer-BI)
+* The Developer Profile: [https://www.linkedin.com/in/the-developer-yt/](https://www.linkedin.com/in/the-developer-yt/)
 
 ---
 
